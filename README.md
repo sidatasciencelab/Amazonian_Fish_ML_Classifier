@@ -5,3 +5,7 @@ Try our masking and fish classification models in a StreamLit application [here.
 Data from this paper are available on [figshare.](https://doi.org/10.25573/data.c.5761097)(Note this link will become active upon publication).
 
 Code for StreamLit application is on [GitHub.](https://github.com/MikeTrizna/streamlit_fish_masking)
+
+<p align="center">
+  <img src="Mask_example_Bario.png" width="350" title="Example of a masked fish image">
+</p>
