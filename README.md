@@ -1,4 +1,4 @@
-# Amazonian_Fish_ML_Classifier
+# Amazonian Fish ML Classifier
 
 Try our masking and fish classification models in a StreamLit application [here.](https://share.streamlit.io/miketrizna/streamlit_fish_masking/main/fish_masking_classification_streamlit.py)
 
