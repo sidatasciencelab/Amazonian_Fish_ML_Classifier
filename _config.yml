@@ -1,1 +1,5 @@
+title: Amazonian Fish ML Classifier
+description: Links to application, code, modelsm and data for "Application of a Deep Learning Image Classifier for Identification of Amazonian Fishes"
 theme: jekyll-theme-modernist
+github:
+  is_project_page: false
